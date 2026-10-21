@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lentera International Service | Ground Handling & Land Arrangement Saudi Arabia</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+
+    <!-- Navigation -->
+    <nav class="bg-emerald-800 text-white sticky top-0 z-50 shadow-md">
+        <div class="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
+            <h1 class="text-xl font-bold tracking-wide">LENTERA<span class="text-yellow-400"> SERVICE</span></h1>
+            <a href="https://wa.me/966XXXXXXXXX" class="bg-yellow-500 hover:bg-yellow-600 text-emerald-950 px-4 py-2 rounded-lg font-semibold text-sm transition">
+                <i class="fab fa-whatsapp mr-1"></i> Hubungi Kami
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="bg-emerald-900 text-white py-16 px-4 text-center relative overflow-hidden">
+        <div class="max-w-3xl mx-auto relative z-10">
+            <span class="bg-yellow-500/20 text-yellow-300 text-xs px-3 py-1 rounded-full uppercase font-bold tracking-wider">Mitra Land Arrangement Terpercaya</span>
+            <h2 class="text-3xl md:text-5xl font-extrabold mt-4 leading-tight">Solusi Ground Handling & Land Arrangement Saudi Arabia</h2>
+            <p class="mt-4 text-emerald-100 text-sm md:text-base">Melayani Kebutuhan Umrah & Hajj Service: Handling Bandara, BRN, Hotel, Transportasi, hingga Catering Nusantara.</p>
+            <div class="mt-8 flex flex-col sm:flex-row gap-3 justify-center">
+                <a href="#booking" class="bg-yellow-500 hover:bg-yellow-400 text-emerald-950 font-bold px-6 py-3 rounded-lg shadow-lg">Pesan Layanan / BRN</a>
+                <a href="#services" class="bg-emerald-800 hover:bg-emerald-700 text-white font-semibold px-6 py-3 rounded-lg border border-emerald-600">Lihat Layanan</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Layanan Utama -->
+    <section id="services" class="max-w-7xl mx-auto px-4 py-12">
+        <h3 class="text-2xl font-bold text-center text-emerald-900 mb-8">Layanan Utama Kami</h3>
+        
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Handling -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
+                <div class="w-12 h-12 bg-emerald-100 text-emerald-800 rounded-lg flex items-center justify-center text-2xl mb-4">
+                    <i class="fas fa-plane-arrival"></i>
+                </div>
+                <h4 class="font-bold text-lg mb-2">Ground Handling Bandara</h4>
+                <p class="text-gray-600 text-sm">Penanganan jemaah tiba & berangkat di Bandara King Abdulaziz Jeddah & Bandara Madinah.</p>
+            </div>
+
+            <!-- BRN & Hotel -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
+                <div class="w-12 h-12 bg-emerald-100 text-emerald-800 rounded-lg flex items-center justify-center text-2xl mb-4">
+                    <i class="fas fa-hotel"></i>
+                </div>
+                <h4 class="font-bold text-lg mb-2">Pemesanan Hotel & BRN</h4>
+                <p class="text-gray-600 text-sm">Penyediaan BRN Hotel Makkah & Madinah (Bintang 3, 4, 5) dengan konfirmasi cepat.</p>
+            </div>
+
+            <!-- Transportasi -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
+                <div class="w-12 h-12 bg-emerald-100 text-emerald-800 rounded-lg flex items-center justify-center text-2xl mb-4">
+                    <i class="fas fa-bus"></i>
+                </div>
+                <h4 class="font-bold text-lg mb-2">Transportasi & BRN Bus</h4>
+                <p class="text-gray-600 text-sm">Armada Bus VIP, Coaster, dan GMC untuk rute Jeddah, Makkah, Madinah, & Taif.</p>
+            </div>
+
+            <!-- Catering & Snack -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
+                <div class="w-12 h-12 bg-emerald-100 text-emerald-800 rounded-lg flex items-center justify-center text-2xl mb-4">
+                    <i class="fas fa-utensils"></i>
+                </div>
+                <h4 class="font-bold text-lg mb-2">Catering & Snack Box</h4>
+                <p class="text-gray-600 text-sm">Makanan cita rasa Indonesia untuk prasmanan, box kedatangan, dan perjalanan ziarah.</p>
+            </div>
+
+            <!-- Handling Ziarah -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
+                <div class="w-12 h-12 bg-emerald-100 text-emerald-800 rounded-lg flex items-center justify-center text-2xl mb-4">
+                    <i class="fas fa-map-marked-alt"></i>
+                </div>
+                <h4 class="font-bold text-lg mb-2">City Tour & Ziarah</h4>
+                <p class="text-gray-600 text-sm">Pendampingan ziarah Makkah, Madinah, serta City Tour Taif dan Badar.</p>
+            </div>
+
+            <!-- Kereta Cepat Haramain -->
+            <div class="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition">
+                <div class="w-12 h-12 bg-emerald-100 text-emerald-800 rounded-lg flex items-center justify-center text-2xl mb-4">
+                    <i class="fas fa-train"></i>
+                </div>
+                <h4 class="font-bold text-lg mb-2">Tiket Kereta Cepat (HHR)</h4>
+                <p class="text-gray-600 text-sm">Pemesanan tiket Kereta Cepat Haramain Makkah-Madinah untuk rombongan maupun FIT.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Form Pemesanan -->
+    <section id="booking" class="bg-emerald-50 py-12 px-4">
+        <div class="max-w-3xl mx-auto bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-emerald-100">
+            <h3 class="text-2xl font-bold text-emerald-900 mb-2 text-center">Form Permintaan Layanan / Quotation</h3>
+            <p class="text-gray-600 text-sm text-center mb-6">Isi formulir di bawah untuk mendapatkan penawaran resmi Land Arrangement.</p>
+            
+            <form id="orderForm" onsubmit="sendToWhatsapp(event)" class="space-y-4">
+                <div>
+                    <label class="block text-sm font-semibold text-gray-700 mb-1">Nama Travel / Agen</label>
+                    <input type="text" id="travelName" required class="w-full border border-gray-300 p-3 rounded-lg focus:ring-2 focus:ring-emerald-500 outline-none" placeholder="Contoh: PT Embun Wisata">
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div>
+                        <label class="block text-sm font-semibold text-gray-700 mb-1">Jumlah Pax/Jemaah</label>
+                        <input type="number" id="paxCount" required class="w-full border border-gray-300 p-3 rounded-lg focus:ring-2 focus:ring-emerald-500 outline-none" placeholder="45">
+                    </div>
+                    <div>
+                        <label class="block text-sm font-semibold text-gray-700 mb-1">Tanggal Kedatangan</label>
+                        <input type="date" id="arrivalDate" required class="w-full border border-gray-300 p-3 rounded-lg focus:ring-2 focus:ring-emerald-500 outline-none">
+                    </div>
+                </div>
+                <div>
+                    <label class="block text-sm font-semibold text-gray-700 mb-1">Layanan yang Dibutuhkan</label>
+                    <div class="grid grid-cols-2 gap-2 text-sm text-gray-700 mt-1">
+                        <label class="flex items-center space-x-2"><input type="checkbox" value="Handling Bandara" class="service-check"> <span>Handling Bandara</span></label>
+                        <label class="flex items-center space-x-2"><input type="checkbox" value="BRN Hotel" class="service-check"> <span>BRN Hotel</span></label>
+                        <label class="flex items-center space-x-2"><input type="checkbox" value="Transportasi Bus" class="service-check"> <span>Bus & Transport</span></label>
+                        <label class="flex items-center space-x-2"><input type="checkbox" value="Catering & Snack" class="service-check"> <span>Catering & Snack</span></label>
+                    </div>
+                </div>
+                <div>
+                    <label class="block text-sm font-semibold text-gray-700 mb-1">Catatan Tambahan</label>
+                    <textarea id="notes" rows="3" class="w-full border border-gray-300 p-3 rounded-lg focus:ring-2 focus:ring-emerald-500 outline-none" placeholder="Rincian hotel, permintaan spesifik, dll..."></textarea>
+                </div>
+                <button type="submit" class="w-full bg-emerald-800 hover:bg-emerald-900 text-white font-bold py-3 rounded-lg transition shadow-md">
+                    <i class="fab fa-whatsapp mr-2"></i> Kirim Permintaan via WhatsApp
+                </button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-emerald-950 text-emerald-200 py-8 px-4 text-center text-xs">
+        <p class="font-bold text-sm text-white mb-2">Lentera International Service</p>
+        <p>Ground Handling & Land Arrangement Saudi Arabia</p>
+        <p class="mt-4 text-gray-400">&copy; 2026 Lentera International Service. All rights reserved.</p>
+    </footer>
+
+    <!-- Script Kirim WhatsApp -->
+    <script>
+        function sendToWhatsapp(e) {
+            e.preventDefault();
+            const phone = "62895327485590"; // Ganti dengan nomor WA operasional Anda (tanpa tanda +)
+            
+            const travel = document.getElementById('travelName').value;
+            const pax = document.getElementById('paxCount').value;
+            const date = document.getElementById('arrivalDate').value;
+            const notes = document.getElementById('notes').value;
+
+            const checkboxes = document.querySelectorAll('.service-check:checked');
+            let selectedServices = [];
+            checkboxes.forEach(cb => selectedServices.push(cb.value));
+
+            let message = `*HALO LENTERA SERVICE - PERMINTAAN QUOTATION*\n\n`;
+            message += `*Nama Travel:* ${travel}\n`;
+            message += `*Jumlah Pax:* ${pax} Orang\n`;
+            message += `*Tgl Kedatangan:* ${date}\n`;
+            message += `*Layanan:* ${selectedServices.join(', ') || 'Belum dipilih'}\n`;
+            if(notes) message += `*Catatan:* ${notes}\n`;
+
+            const encodedMessage = encodeURIComponent(message);
+            window.open(`https://wa.me/${phone}?text=${encodedMessage}`, '_blank');
+        }
+    </script>
+</body>
+</html>
